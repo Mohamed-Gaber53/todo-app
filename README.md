@@ -17,8 +17,6 @@ This project is based on the **Frontend Mentor** Todo App Challenge.
 
 🔗 **[Live Demo](https://mohamed-gaber53.github.io/todo-app/)**
 
-> ⚠️ Replace the link after deploying the project on GitHub Pages.
-
 ## 📦 Installation & Usage
 
 1️⃣ **Clone the repository:**
